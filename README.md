@@ -1,5 +1,7 @@
 ### GitHub Repository for CSCI 3022 
 
+BDAY PROBLEM: [survey](https://docs.google.com/forms/d/e/1FAIpQLSeQL1HOyOih5e_r-7_rGBvFmcPKPw-V8VkJfkKqhb76c9Kx8A/viewform?usp=sf_link)
+
 
 Prof. Daniel Larremore
 

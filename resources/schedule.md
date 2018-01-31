@@ -12,8 +12,8 @@
 |    |01.19 | 	    |16.1-3  |EDA and Summary Statistics 				 | [lec2](https://github.com/dblarremore/csci3022/blob/master/slides/lec2.pdf)      |	|
 |2   |01.22 | [nb1](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb1_pandas_titanic.ipynb)	    |15.1-2,16.4|EDA and Data Visualization 			 | [lec3](https://github.com/dblarremore/csci3022/blob/master/slides/lec3.pdf)      |hw1 posted 		|
 |    |01.24 | [nb2](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb2_summarystats_weather.ipynb) [nb3](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb3_graphical_summaries_wrangling.ipynb)	 |           |**Data Wrangling**						 |       |	|
-|    |01.26 |	    |2          |Introduction to Probability 			 |       |	|
-|3   |01.29 |	    |2,3        |Axioms and Theorems of Probability 	 |       |	|
+|    |01.26 |	    |2          |Introduction to Probability 			 | [lec4](https://github.com/dblarremore/csci3022/blob/master/slides/lec4.pdf)      |	|
+|3   |01.29 |	    |2,3        |Axioms and Theorems of Probability 	 | [lec5](https://github.com/dblarremore/csci3022/blob/master/slides/lec5.pdf)      |	|
 |    |01.31 | 	    |6          |**Stochastic Simulation**				 |       |	|
 |    |02.2  |	    |3          |Bayes' Rule and Intro to PDFs 			 |       |hw1 due|
 |4   |02.5  |	    |4          |Discrete RVs, PMFs, CMFs 				 |       |hw2 posted|
