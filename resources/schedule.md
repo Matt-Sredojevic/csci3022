@@ -14,8 +14,8 @@
 |    |01.24 | [nb2](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb2_summarystats_weather.ipynb) [nb3](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb3_graphical_summaries_wrangling.ipynb)	 |           |**Data Wrangling**						 |       |	|
 |    |01.26 |	    |2          |Introduction to Probability 			 | [lec4](https://github.com/dblarremore/csci3022/blob/master/slides/lec4.pdf)      |	|
 |3   |01.29 |	    |2,3        |Axioms and Theorems of Probability 	 | [lec5](https://github.com/dblarremore/csci3022/blob/master/slides/lec5.pdf)      |	|
-|    |01.31 | 	    |6          |**Stochastic Simulation**				 |       |	|
-|    |02.2  |	    |3          |Bayes' Rule and Intro to PDFs 			 |       |hw1 due|
+|    |01.31 | [nb4](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb4_stochastic_simulation.ipynb) [nb5](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb5_condl_total_prob.ipynb)	    |6          |**Stochastic Simulation**				 |       |	|
+|    |02.2  |	    |3          |Bayes' Rule and Intro to PDFs 			 | [lec6](https://github.com/dblarremore/csci3022/blob/master/slides/lec6.pdf)      |hw1 due|
 |4   |02.5  |	    |4          |Discrete RVs, PMFs, CMFs 				 |       |hw2 posted|
 |    |02.7  |	    |4,5        |Discrete RVs Strike Back				 |       |	|
 |    |02.9  | 	    |           |**Return of the Discrete RVs**			 |       |	|
