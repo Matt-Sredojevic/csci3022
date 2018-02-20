@@ -10,19 +10,19 @@
 |:--:|:----:| --------|-----------|----------------------------------------|--------------|-----------|
 |1   |01.17 | [tutorial](https://github.com/dblarremore/csci3022/blob/master/notebooks/NumpyPandasTutorial.ipynb)	    |           |Course & Computing Introduction 		 | [lec1](https://github.com/dblarremore/csci3022/blob/master/slides/lec1.pdf)      |	|
 |    |01.19 | 	    |16.1-3  |EDA and Summary Statistics 				 | [lec2](https://github.com/dblarremore/csci3022/blob/master/slides/lec2.pdf)      |	|
-|2   |01.22 | [nb1](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb1_pandas_titanic.ipynb)	    |15.1-2,16.4|EDA and Data Visualization 			 | [lec3](https://github.com/dblarremore/csci3022/blob/master/slides/lec3.pdf)      |hw1 posted 		|
+|2   |01.22 | [nb1](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb1_pandas_titanic.ipynb)	    |15.1-2,16.4|EDA and Data Visualization 			 | [lec3](https://github.com/dblarremore/csci3022/blob/master/slides/lec3.pdf)      |[hw1](https://github.com/dblarremore/csci3022/tree/master/homework/homework1) posted 		|
 |    |01.24 | [nb2](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb2_summarystats_weather.ipynb) [nb3](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb3_graphical_summaries_wrangling.ipynb)	 |           |**Data Wrangling**						 |       |	|
 |    |01.26 |	    |2          |Introduction to Probability 			 | [lec4](https://github.com/dblarremore/csci3022/blob/master/slides/lec4.pdf)      |	|
 |3   |01.29 |	    |2,3        |Axioms and Theorems of Probability 	 | [lec5](https://github.com/dblarremore/csci3022/blob/master/slides/lec5.pdf)      |	|
 |    |01.31 | [nb4](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb4_stochastic_simulation.ipynb) [nb5](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb5_condl_total_prob.ipynb)	    |6          |**Stochastic Simulation**				 |       |	|
 |    |02.2  |	    |3          |Bayes' Rule and Intro to PDFs 			 | [lec6](https://github.com/dblarremore/csci3022/blob/master/slides/lec6.pdf)      |hw1 due|
-|4   |02.5  |	    |4          |Discrete RVs, PMFs, CMFs 				 | [lec7](https://github.com/dblarremore/csci3022/blob/master/slides/lec7.pdf)      |hw2 posted|
+|4   |02.5  |	    |4          |Discrete RVs, PMFs, CMFs 				 | [lec7](https://github.com/dblarremore/csci3022/blob/master/slides/lec7.pdf)      |[hw2](https://github.com/dblarremore/csci3022/tree/master/homework/homework2) posted|
 |    |02.7  |	    |4,5        |Discrete RVs Strike Back				 | [lec8](https://github.com/dblarremore/csci3022/blob/master/slides/lec8.pdf)      |	|
 |    |02.9  | [nb6](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb6_bayes_LTP.ipynb) [nb7](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb7_discrete_rvs.ipynb) [nb8](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb8_more_discrete_rvs.ipynb)	    |           |**Return of the Discrete RVs**			 |       |	|
 |5   |02.12 |	    |5          |Continuous RVs Awaken, PDFs, CDFs		 | [lec9](https://github.com/dblarremore/csci3022/blob/master/slides/lec9.pdf)      |	|
-|    |2.14  | 	    |           |**The Last Continuous RVs**			 |       |	|
-|    |02.16 |	    |7          |Expectation 							 |       |hw2 due|
-|6   |02.19 |	    |7          |Variance								 |       |hw3 posted|
+|    |2.14  | [nb9](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb9_continuousRVs.ipynb)	    |           |**The Last Continuous RVs**			 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/bonus.pdf)      |	|
+|    |02.16 |	    |7          |Expectation 							 | [lec10](https://github.com/dblarremore/csci3022/blob/master/slides/lec10.pdf)      |hw2 due|
+|6   |02.19 |	    |7          |Variance								 | [lec11](https://github.com/dblarremore/csci3022/blob/master/slides/lec11.pdf)      |[hw3](https://github.com/dblarremore/csci3022/tree/master/homework/homework3) posted|
 |    |02.21 | 	    |           |**More Expectation & Variance** 		 |       |	|
 |    |02.23 |	    |5.5        |The Normal Distribution 				 |       		 |	|
 |7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 |       		 |	|
