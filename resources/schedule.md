@@ -28,7 +28,7 @@
 |7   |02.26 |	    |           |**MIDTERM EXAM REVIEW** 				 | [review notes](https://github.com/dblarremore/csci3022/blob/master/slides/midterm_review.pdf)      		 |	|
 |    |02.28 |	    |14         |The Central Limit Theorems 			 | [lec13](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)       |	|
 |    |02.28 |	    |           |**MIDTERM EXAM (PM)** 					 |       |	|
-|    |03.2  | 	    |           |**The Central Limit Theorem and You**	 |       |hw3 due|
+|    |03.2  | [nb12](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb12_normal.ipynb) [nb13](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb13_centrallimitthm.ipynb) |           |**The Central Limit Theorem and You**	 |       |hw3 due|
 |8   |3.5	|	    |23,24      |Inference and CI Intro					 |       |hw4 posted|
 |    |3.7	|	    |23,24      |Two-Sample CIs 						 |       |	|
 |    |03.9  | 	    |           |**CIs in the Wild** 					 |       |	|
